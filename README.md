@@ -1,0 +1,2 @@
+# Version checks miners & wallets
+ 
