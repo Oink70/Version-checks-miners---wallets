@@ -1,0 +1,24 @@
+<script>
+$(document).ready(function(){
+    $.ajax({url: "/home/oink/Test/agama", success: function(result){
+        $("#verusagama").html(result);
+    }});
+
+    $.ajax({url: "/home/oink/Test/cli", success: function(result){
+        $("#veruscli").html(result);
+    }});
+
+    $.ajax({url: ".home/oink/Test/ccminer", success: function(result){
+        $("#ccminer").html(result);
+    }});
+
+    $.ajax({url: ".home/oink/Test/nheqminer", success: function(result){
+        $("#nheqminer").html(result);
+    }});
+
+    $.ajax({url: ".home/oink/Test/timestamp", success: function(result){
+        $("#versionTS").html(result);
+    }});
+
+});
+</script>

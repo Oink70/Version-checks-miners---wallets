@@ -1,0 +1,8 @@
+<h2>Wallet and miner versions</h2>
+<ul id="Versions">
+	<li> Timestamp last version check: <span id="versionTS">&nbsp;</span></li>
+	<li> <a href="https://veruscoin.io/wallet.html">Verus Agama Wallet</a>: <span id="verusagama">&nbsp;</span></li>
+        <li> <a href="https://veruscoin.io/wallet.html">Verus CLI Wallet</a>: <span id="veruscli">&nbsp;</span></li>
+        <li> <a href="https://veruscoin.io/getVRSC.html">Verus NHEQminer</a>: <span id="nheqminer">&nbsp;</span></li>
+        <li> <a href="https://veruscoin.io/getVRSC.html">Monkins CCminer</a>: <span id="ccminer">&nbsp;</span></li>
+</ul> 
